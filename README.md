@@ -12,4 +12,5 @@ Revised Some part of Java basics today i.e. **26/03/25**
 - Object & Class Methods  
 - Method Overloading
 - Types of Variables: Instance, Local, and Static Variables 
-- **JVM Memory Management:** Stack & Heap Storage  
+- **JVM Memory Management:** Stack & Heap Storage
+- Arrays (1D,2D & 3D), Strings and String Methods
